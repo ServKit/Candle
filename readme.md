@@ -21,6 +21,11 @@ Qt 5.4.2 with MinGW/GCC compiler
 
 Downloads:
 ----------
+Experimental versions:
+
+* [Version 1.2b release](https://github.com/Denvi/Candle/releases/tag/v1.2b)
+
+
 For GRBL v1.1 firmware
 
 * Windows: [candle_1.1.7.zip](https://github.com/Denvi/Candle/releases/download/v1.1/Candle_1.1.7.zip)
